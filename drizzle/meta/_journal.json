@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1761463129838,
+      "tag": "0000_colossal_groot",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1761463175061,
+      "tag": "0001_bumpy_shooting_star",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1761475438197,
+      "tag": "0002_round_aqueduct",
+      "breakpoints": true
+    }
+  ]
+}
